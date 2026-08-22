@@ -13,7 +13,7 @@
 Software developer in the making, building with Python and exploring AI. I enjoy solving problems, learning by building, and turning “I wonder if…” into working projects.
 
 🔭 &nbsp;I'm currently working on **AI-powered projects, developer tools, and finishing the things I started .😭**  
-🌱 &nbsp;I'm currently learning **AI/ML, cloud, SQL, and software engineering.**  
+🌱 &nbsp;I'm currently learning **AI/ML, Java, Python, CyberSecurity, SQL, and Software Engineering.**  
 👯 &nbsp;I'm looking to collaborate on **Python projects, AI tools, and open-source projects.**  
 🤔 &nbsp;I'm looking for help with **AI/ML, system design, and becoming a better software engineer.**  
 💬 &nbsp;Ask me about **Python, AI, problem-solving, and projects I've built**  
