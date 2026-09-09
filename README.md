@@ -18,7 +18,7 @@ Software developer in the making, building with Python and exploring AI. I enjoy
 - &nbsp;I'm looking for help with **AI/ML, system design, and becoming a better software engineer.**  
 - &nbsp;Ask me about **Python, AI, problem-solving, and projects I've built**  
 - &nbsp;Pronouns: **she/her**  
-- &nbsp;Fun fact: **I started my coding journey without a tech background and somehow ended up loving it. **
+- &nbsp;Fun fact: **I started my coding journey without a tech background and somehow ended up loving it.**
 
 ### Tech Stack 👩🏽‍💻
 
@@ -27,10 +27,7 @@ Software developer in the making, building with Python and exploring AI. I enjoy
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
