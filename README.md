@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=900&height=44&lines=Software%20Developer%20in%20the%20making%20%7C%20Python%20%E2%80%A2%20AI%20%E2%80%A2%20Problem%20Solving;Curious%20enough%20to%20ask%20%E2%80%9Cwhat%20if%3F%E2%80%9D%20and%20stubborn%20enough%20to%20build%20it." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me 😉
 
 Software developer in the making, building with Python and exploring AI. I enjoy solving problems, learning by building, and turning “I wonder if…” into working projects.
 
-🔭 &nbsp;I'm currently working on **AI-powered projects, developer tools, and finishing the things I started .😭**  
-🌱 &nbsp;I'm currently learning **AI/ML, Java, Python, CyberSecurity, SQL, and Software Engineering.**  
-👯 &nbsp;I'm looking to collaborate on **Python projects, AI tools, and open-source projects.**  
-🤔 &nbsp;I'm looking for help with **AI/ML, system design, and becoming a better software engineer.**  
-💬 &nbsp;Ask me about **Python, AI, problem-solving, and projects I've built**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I started my coding journey without a tech background — and somehow ended up loving it. 😭**
+- &nbsp;I'm currently working on **AI-powered projects, developer tools, and finishing the things I started .😭**  
+- &nbsp;I'm currently learning **AI/ML, Java, Python, CyberSecurity, SQL, data Engineering and Software Engineering.**  
+- &nbsp;I'm looking to collaborate on **Python projects, AI tools, and open-source projects.**  
+- &nbsp;I'm looking for help with **AI/ML, system design, and becoming a better software engineer.**  
+- &nbsp;Ask me about **Python, AI, problem-solving, and projects I've built**  
+- &nbsp;Pronouns: **she/her**  
+- &nbsp;Fun fact: **I started my coding journey without a tech background and somehow ended up loving it. **
 
-### 🛠️ Tech Stack
+### Tech Stack 👩🏽‍💻
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
