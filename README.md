@@ -62,7 +62,7 @@ I build software centered on robust backend architecture, automated data pipelin
 * **Top 100 Finalist:** Monkey & River Hackathon (Nationwide software challenge).
 * **Competitive Programming:** Competed in Entelect University Cup & Entelect Hack &lt;IT&gt; algorithmic coding sprints.
 * **Kaggle & Google AI Agents:** Completed the intensive 5-day agentic AI systems and spec-driven development program.
-* **Community Leadership:** Campus placement facilitator and GDG Soweto event volunteer.
+* **Community Leadership:** Campus placement facilitator.
 
 </details>
 
