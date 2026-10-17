@@ -11,7 +11,7 @@
 
 I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, and whatever problem the next hackathon throws at me. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
 
-- Working on **BorderFlowAI**: turning a hackathon prototype into a well-tested app
+- Working on [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI): turning a hackathon prototype into a well-tested app
 - Learning more about **AI agents, data engineering and SQL**
 - Usually found at a hackathon, or recovering from one
 - Marvel fan. The GIF changes with my mood.😝
@@ -31,7 +31,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | [**Certification Inventory**](https://github.com/Mo-lemi/Molemi-s-Certification-Inventory) · [🌐 Visit](https://mo-lemi.github.io/Molemi-s-Certification-Inventory/) | My own public site for every certificate I've earned (24 and counting), with thumbnails, issuers and verification links. It redeploys itself on every push, and I keep improving it. | Astro · TypeScript · Tailwind CSS · GitHub Actions · GitHub Pages |
 | [**Echoes and Reflections**](https://github.com/Mo-lemi/Echoes-and-Reflections-Jigsaw-Puzzle) · [🎮 Play it](https://mo-lemi.github.io/Echoes-and-Reflections-Jigsaw-Puzzle/) | A jigsaw puzzle you make from your own favourite memory, with generated audio. Built solo for the Campus Game Jam with BBD. | TypeScript · HTML Canvas · Web Audio API |
 | [**Sync_Organize**](https://github.com/Mo-lemi/Sync_Organize) | A minimalist, offline sticky-notes and task board on a visual canvas. | TypeScript · React · Node.js · Express · SQLite · Tailwind |
-| **Robot Worlds** *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
+| **Brownfields** *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
 
 ### Currently Building
 
@@ -54,11 +54,11 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 ## Hackathons & Competitions
 
-- **Dev3Pack Hackathon 2026:** 7th in South Africa with BorderFlowAI
+- **Dev3Pack Hackathon 2026:** 7th in South Africa with [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI)
 - **HackerRank Orchestrate (Sept 2026):** ranked #719 of 3,062 globally, building autonomous AI agents
 - **Entelect Hack&lt;IT&gt; 2026:** 60th of 489 when the leaderboard froze, with a Python simulation solver
 - **Monkey & River Hackathon:** Top 100 individual placement
-- **UNESCO Youth Hackathon:** built [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) with Sizwe Marole.
+- **UNESCO Youth Hackathon:** built [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) with [**Sizwe Marole**](https://github.com/SizweMarole-21389).
 - **GirlCode Hackathon 2026:** a 30-hour build sprint with my team
 - Also: **Entelect University Cup 2026** (game bots) and **Campus Game Jam with BBD**
 
@@ -66,13 +66,13 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 ## Experience & Community
 
-- **Data Science Intern** · AnalystLab Africa (Oct 2026 – present)
-- **Placement Facilitator** · [WeThinkCode_](https://www.wethinkcode.co.za/)(Oct 2025 – Aug 2026)
-- **Mentee** · Women Techmakers (WTM) Mentorship 2026 (Aug 2026 - present)
+- **Data Science Intern** · [**AnalystLab Africa**](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all) (Oct 2026 – present)
+- **Placement Facilitator** · [WeThinkCode_](https://www.wethinkcode.co.za/) (Oct 2025 – Aug 2026)
+- **Data Science Mentee** · [**WTM Bambili**](https://www.linkedin.com/company/wtm-bambili/posts/?feedView=all) Tech Mentorship 2026 (Aug 2026 - present)
 
 ## Education
 
-- **WeThinkCode_**: Occupational Certificate in Software Engineering (Oct 2025 – Feb 2027, expected)
+- [WeThinkCode_](https://www.wethinkcode.co.za/): Occupational Certificate in Software Engineering (Oct 2025 – Feb 2027, expected)
 - 📜 [**See all my certificates →**](https://mo-lemi.github.io/Molemi-s-Certification-Inventory/)
 
 ---
