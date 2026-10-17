@@ -58,7 +58,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 - **HackerRank Orchestrate (Sept 2026):** ranked #719 of 3,062 globally, building autonomous AI agents
 - **Entelect Hack&lt;IT&gt; 2026:** 60th of 489 when the leaderboard froze, with a Python simulation solver
 - **Monkey & River Hackathon:** Top 100 individual placement
-- **UNESCO Youth Hackathon:** built Qhaphela with Sizwe Marole.
+- **UNESCO Youth Hackathon:** built [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) with Sizwe Marole.
 - **GirlCode Hackathon 2026:** a 30-hour build sprint with my team
 - Also: **Entelect University Cup 2026** (game bots) and **Campus Game Jam with BBD**
 
