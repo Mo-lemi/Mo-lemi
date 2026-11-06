@@ -35,6 +35,9 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | **Brownfields** *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
 | [**SecureNotes**](https://github.com/Mo-lemi/CyberSecurity-Project) | a note-sharing web app built security-first, with a STRIDE threat model, OWASP Top 10 defences, automated security scans and a self-pentest. | *Python · Flask · SQLite · Docker* |
 | [**SA Weather ETL**](https://github.com/Mo-lemi/Data-Engineering-Project) | a pipeline that pulls five years of daily weather for five South African cities, cleans it, and answers questions with SQL. | *Python · pandas · SQLite* |
+| [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project) | An end-to-end exploratory analysis of ShopSmart's 2025 retail data: nine related tables, 50,000 orders, 5,000 customers, 500 products and 25 stores across Nigeria. It covers loading, cleaning, KPIs, visualisation, correlation, feature engineering, ten business questions and a bonus K-Means customer segmentation. | Python, Google Colab, SQL |
+| [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project) | This project turns 918 raw patient records into a clean, encoded, scaled, machine-learning-ready dataset for predicting heart disease, and documents every preprocessing decision. Every step that learns from the data (imputation, outlier fences, encoders, scaler, feature selection) is fitted on the training set only, so there is no data leakage. | Python, Google Colab |
+| [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project) | The analysis covers 27,891 encounters for 974 patients. Because a handful of patients generate a large share of encounters, every hypothesis is tested both per encounter and per patient, with confidence intervals from a bootstrap that resamples patients. The key figures are then reconciled against an independent, pandas-free recalculation. | Python, Google Colab |
 
 ---
 
@@ -52,7 +55,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 ## Currently Busy with (besides school) :
 
-### [**AnalystLab Africa**](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all) (Oct 2026 – present)
+### **Data Science Intern** · [**AnalystLab Africa**](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all) (Oct 2026 – present)
 
 #### Projects built in this internship so far :
  - [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project)
@@ -73,6 +76,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 - **UNESCO Youth Hackathon:** built [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) with [**Sizwe Marole**](https://github.com/SizweMarole-21389).
 - **GirlCode Hackathon 2026:** a 30-hour build sprint with my team
 - **FNB App of The Year Hackathon 2026:** built [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence)
+- **Zindi Sasol Customer Value Recruitment Challenge**
 
 
 ---
