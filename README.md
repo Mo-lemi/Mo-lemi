@@ -3,7 +3,8 @@
   1. Push the new GIF to the assets/ folder of Mo-lemi/My-Portfolio (keep it under ~5 MB and ~320px wide).
   2. Change the file name at the end of src="..." and the "Current mood" caption just below.
 -->
-<img align="right" width="260" src="https://raw.githubusercontent.com/Mo-lemi/My-Portfolio/main/assets/mood.gif" alt="Agatha Harkness casting purple magic" />
+
+<img align="right" width="260" src="https://github.com/Mo-lemi/My-Portfolio/blob/main/assets/Chrysalis.jpg" alt="Agatha Harkness casting purple magic" />
 
 # Hi, I'm Molemi 👋
 
@@ -11,12 +12,12 @@
 
 I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, and whatever problem the next hackathon throws at me. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
 
-- Working on [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI): turning a hackathon prototype into a well-tested app
 - Learning more about **AI agents, data engineering and SQL**
 - Usually found at a hackathon, or recovering from one
-- Marvel fan. The GIF changes with my mood.😝
+- Marvel fan.
+- Icon changes according to my mood.
 
-<sub> **Current mood:** Agatha Harkness · GIF via @sersi</sub>
+<!-- <sub> **Current mood:** Agatha Harkness · GIF via @sersi</sub> -->
 
 <br clear="right" />
 
@@ -32,11 +33,8 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | [**Echoes and Reflections**](https://github.com/Mo-lemi/Echoes-and-Reflections-Jigsaw-Puzzle) · [🎮 Play it](https://mo-lemi.github.io/Echoes-and-Reflections-Jigsaw-Puzzle/) | A jigsaw puzzle you make from your own favourite memory, with generated audio. Built solo for the Campus Game Jam with BBD. | TypeScript · HTML Canvas · Web Audio API |
 | [**Sync_Organize**](https://github.com/Mo-lemi/Sync_Organize) | A minimalist, offline sticky-notes and task board on a visual canvas. | TypeScript · React · Node.js · Express · SQLite · Tailwind |
 | **Brownfields** *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
-
-### Currently Building
-
-- [**SecureNotes**](https://github.com/Mo-lemi/CyberSecurity-Project): a note-sharing web app built security-first, with a STRIDE threat model, OWASP Top 10 defences, automated security scans and a self-pentest. *Python · Flask · SQLite · Docker*
-- [**SA Weather ETL**](https://github.com/Mo-lemi/Data-Engineering-Project): a pipeline that pulls five years of daily weather for five South African cities, cleans it, and answers questions with SQL. *Python · pandas · SQLite*
+| [**SecureNotes**](https://github.com/Mo-lemi/CyberSecurity-Project) | a note-sharing web app built security-first, with a STRIDE threat model, OWASP Top 10 defences, automated security scans and a self-pentest. | *Python · Flask · SQLite · Docker* |
+| [**SA Weather ETL**](https://github.com/Mo-lemi/Data-Engineering-Project) | a pipeline that pulls five years of daily weather for five South African cities, cleans it, and answers questions with SQL. | *Python · pandas · SQLite* |
 
 ---
 
@@ -52,23 +50,38 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 ---
 
+## Currently Busy with (besides school) :
+
+### [**AnalystLab Africa**](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all) (Oct 2026 – present)
+
+#### Projects built in this internship so far :
+ - [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project)
+ - [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project)
+ - [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project)
+
+---
+
 ## Hackathons & Competitions
 
+- **Campus Game Jam with BBD:** built [**Echoes and Reflections**](https://github.com/Mo-lemi/Echoes-and-Reflections-Jigsaw-Puzzle) a JigSaw puzzle game.
 - **Dev3Pack Hackathon 2026:** 7th in South Africa with [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI)
+- **Entelect Hack&lt;IT&gt; 2026:** 60th of 489 when the leaderboard froze, with a Python simulation solver.
+- **Entelect University Cup 2026** (game bots)
 - **HackerRank Orchestrate (Sept 2026):** ranked #719 of 3,062 globally, building autonomous AI agents
-- **Entelect Hack&lt;IT&gt; 2026:** 60th of 489 when the leaderboard froze, with a Python simulation solver
+- **HackerRank Orchestrate (Oct 2026):** ranked #563 of 4,090, built an AI agent that audits whether a user's personal data was actually deleted.
 - **Monkey & River Hackathon:** Top 100 individual placement
 - **UNESCO Youth Hackathon:** built [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) with [**Sizwe Marole**](https://github.com/SizweMarole-21389).
 - **GirlCode Hackathon 2026:** a 30-hour build sprint with my team
-- Also: **Entelect University Cup 2026** (game bots) and **Campus Game Jam with BBD**
+- **FNB App of The Year Hackathon 2026:** built [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence)
+
 
 ---
 
 ## Experience & Community
 
-- **Data Science Intern** · [**AnalystLab Africa**](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all) (Oct 2026 – present)
 - **Placement Facilitator** · [WeThinkCode_](https://www.wethinkcode.co.za/) (Oct 2025 – Aug 2026)
-- **Data Science Mentee** · [**WTM Bambili**](https://www.linkedin.com/company/wtm-bambili/posts/?feedView=all) Tech Mentorship 2026 (Aug 2026 - present)
+- **Data Science Mentee** · [**WTM Bambili**](https://www.linkedin.com/company/wtm-bambili/posts/?feedView=all) Tech Mentorship 2026 (Aug 2026 - Nov 2026)
+- **Data Science Intern** · [**AnalystLab Africa**](https://www.linkedin.com/company/analystlab-africa/posts/?feedView=all) (Oct 2026 – present)
 
 ## Education
 
