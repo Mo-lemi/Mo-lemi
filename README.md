@@ -12,7 +12,7 @@
 
 I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, and whatever problem the next hackathon throws at me. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
 
-- Learning more about **AI agents, data engineering and SQL**
+- Learning more about **AI agents, data engineering, SQL and CyberSecurity**
 - Usually found at a hackathon, or recovering from one
 - Marvel fan.
 - Icon changes according to my mood.
