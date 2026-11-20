@@ -23,23 +23,38 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
-| [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI) | Pre-clearance assistant that checks cargo declarations and documents for fraud at South African borders. The final verdict comes from rule-based checks, not the LLM. 🏅 **7th nationally**, Dev3Pack Hackathon. | Python · Streamlit · Gemini API · Pydantic · pytest · Docker |
-| [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) | *Know before you apply.* A Chrome extension and web app that warns job seekers about fraudulent job postings. Built for the UNESCO Youth Hackathon. | TypeScript · React · Vite · Python · scikit-learn · SHAP |
-| [**Certification Inventory**](https://github.com/Mo-lemi/Molemi-s-Certification-Inventory) · [🌐 Visit](https://mo-lemi.github.io/Molemi-s-Certification-Inventory/) | My own public site for every certificate I've earned (24 and counting), with thumbnails, issuers and verification links. It redeploys itself on every push, and I keep improving it. | Astro · TypeScript · Tailwind CSS · GitHub Actions · GitHub Pages |
+| [**Certification Inventory**](https://github.com/Mo-lemi/Molemi-s-Certification-Inventory) · [🌐 Visit](https://mo-lemi.github.io/Molemi-s-Certification-Inventory/) | My own public site for every certificate I've earned (71 and counting), with thumbnails, issuers and verification links. It redeploys itself on every push, and I keep improving it. | Astro · TypeScript · Tailwind CSS · GitHub Actions · GitHub Pages |
 | [**Echoes and Reflections**](https://github.com/Mo-lemi/Echoes-and-Reflections-Jigsaw-Puzzle) · [🎮 Play it](https://mo-lemi.github.io/Echoes-and-Reflections-Jigsaw-Puzzle/) | A jigsaw puzzle you make from your own favourite memory, with generated audio. Built solo for the Campus Game Jam with BBD. | TypeScript · HTML Canvas · Web Audio API |
 | [**Sync_Organize**](https://github.com/Mo-lemi/Sync_Organize) | A minimalist, offline sticky-notes and task board on a visual canvas. | TypeScript · React · Node.js · Express · SQLite · Tailwind |
-| **Brownfields** *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
-| [**SecureNotes**](https://github.com/Mo-lemi/CyberSecurity-Project) | a note-sharing web app built security-first, with a STRIDE threat model, OWASP Top 10 defences, automated security scans and a self-pentest. | *Python · Flask · SQLite · Docker* |
+| [**Brownfields**] *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
+| [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence) | | |
+
+## Artificial Intelligence (AI) Projects
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI) | Pre-clearance assistant that checks cargo declarations and documents for fraud at South African borders. The final verdict comes from rule-based checks, not the LLM. 🏅 **7th nationally**, Dev3Pack Hackathon. | Python · Streamlit · Gemini API · Pydantic · pytest · Docker |
+
+## Data Science and Machine Learning Projects
+
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
 | [**SA Weather ETL**](https://github.com/Mo-lemi/Data-Engineering-Project) | a pipeline that pulls five years of daily weather for five South African cities, cleans it, and answers questions with SQL. | *Python · pandas · SQLite* |
 | [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project) | An end-to-end exploratory analysis of ShopSmart's 2025 retail data: nine related tables, 50,000 orders, 5,000 customers, 500 products and 25 stores across Nigeria. It covers loading, cleaning, KPIs, visualisation, correlation, feature engineering, ten business questions and a bonus K-Means customer segmentation. | Python, Google Colab, SQL |
 | [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project) | This project turns 918 raw patient records into a clean, encoded, scaled, machine-learning-ready dataset for predicting heart disease, and documents every preprocessing decision. Every step that learns from the data (imputation, outlier fences, encoders, scaler, feature selection) is fitted on the training set only, so there is no data leakage. | Python, Google Colab |
 | [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project) | The analysis covers 27,891 encounters for 974 patients. Because a handful of patients generate a large share of encounters, every hypothesis is tested both per encounter and per patient, with confidence intervals from a bootstrap that resamples patients. The key figures are then reconciled against an independent, pandas-free recalculation. | Python, Google Colab |
 | [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project) | | Python, Google Colab |
 | [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project) | | Python, Google Colab, Pandas |
+| [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) | *Know before you apply.* A Chrome extension and web app that warns job seekers about fraudulent job postings. Built for the UNESCO Youth Hackathon. | TypeScript · React · Vite · Python · scikit-learn · SHAP |
+
+## CyberSecurity Projects
+
+| Project | What it is | Built with |
+| :--- | :--- | :--- |
+| [**SecureNotes**](https://github.com/Mo-lemi/CyberSecurity-Project) | a note-sharing web app built security-first, with a STRIDE threat model, OWASP Top 10 defences, automated security scans and a self-pentest. | *Python · Flask · SQLite · Docker* |
 
 ---
 
@@ -51,7 +66,8 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | **Frontend** | React · Vite · Tailwind CSS · Streamlit |
 | **Backend & APIs** | FastAPI · Node.js · Express · REST APIs |
 | **AI & Data** | Gemini API · scikit-learn · SHAP · Pydantic · Jupyter · PostgreSQL · SQLite |
-| **Testing & Tools** | pytest · Playwright · Docker · Git · GitHub · GitLab CI · VS Code |
+| **Testing & Tools** | pytest . Playwright · Docker · Git · GitHub · GitLab CI · VS Code |
+| **CyberSecurity** | burpsuite . fuff |
 
 ---
 
@@ -71,15 +87,15 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 ## Hackathons & Competitions
 
 - **Campus Game Jam with BBD:** built [**Echoes and Reflections**](https://github.com/Mo-lemi/Echoes-and-Reflections-Jigsaw-Puzzle) a JigSaw puzzle game.
-- **Dev3Pack Hackathon 2026:** 7th in South Africa with [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI)
+- **Dev3Pack Hackathon 2026:** 7th in South Africa with [**BorderFlowAI**](https://github.com/Mo-lemi/BorderFlowAI).
 - **Entelect Hack&lt;IT&gt; 2026:** 60th of 489 when the leaderboard froze, with a Python simulation solver.
-- **Entelect University Cup 2026** (game bots)
-- **HackerRank Orchestrate (Sept 2026):** ranked #719 of 3,062 globally, building autonomous AI agents
+- **Entelect University Cup 2026** (game bots).
+- **HackerRank Orchestrate (Sept 2026):** ranked #719 of 3,062 globally, building autonomous AI agents.
 - **HackerRank Orchestrate (Oct 2026):** ranked #563 of 4,090, built an AI agent that audits whether a user's personal data was actually deleted.
-- **Monkey & River Hackathon:** Top 100 individual placement
+- **Monkey & River Hackathon 2026:** Top 100 individual placement
 - **UNESCO Youth Hackathon:** built [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) with [**Sizwe Marole**](https://github.com/SizweMarole-21389).
 - **GirlCode Hackathon 2026:** a 30-hour build sprint with my team
-- **FNB App of The Year Hackathon 2026:** built [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence)
+- **FNB App of The Year Hackathon 2026:** built [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence).
 - **Zindi Sasol Customer Value Recruitment Challenge**
 
 
