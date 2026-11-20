@@ -4,7 +4,7 @@
   2. Change the file name at the end of src="..." and the "Current mood" caption just below.
 -->
 
-<img align="right" width="260" src="" alt="Agatha Harkness casting purple magic" />
+<img align="right" width="260" src="https://github.com/Mo-lemi/My-Portfolio/blob/main/assets/mood.gif" alt="Agatha Harkness casting purple magic" />
 
 # Hi, I'm Molemi 👋
 
