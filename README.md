@@ -10,14 +10,14 @@
 
 **Software Engineering student at [WeThinkCode_](https://www.wethinkcode.co.za/)** · Johannesburg, South Africa
 
-I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, and whatever problem the next hackathon throws at me. I am exploring data and machine learning, solving and creating problems surrounding these topics to expand my knowledge and skill set. Data is fun to work with. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
+I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, games or whatever problem the next hackathon throws at me. I am exploring data and machine learning, solving and creating problems surrounding these topics to expand my knowledge and skill set. Data is fun to work with. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
 
 - Learning more about **AI agents, data engineering, data science, machine learning and CyberSecurity**
 - Usually found at a hackathon, or recovering from one.
 - Marvel fan.
 - Icon changes according to my mood.
 
-<sub> **Current mood:** Agatha Harkness ·
+<sub> **Current mood:** Agatha Harkness
 
 <br clear="right" />
 
@@ -31,7 +31,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | [**Echoes and Reflections**](https://github.com/Mo-lemi/Echoes-and-Reflections-Jigsaw-Puzzle) · [🎮 Play it](https://mo-lemi.github.io/Echoes-and-Reflections-Jigsaw-Puzzle/) | A jigsaw puzzle you make from your own favourite memory, with generated audio. Built solo for the Campus Game Jam with BBD. | TypeScript · HTML Canvas · Web Audio API |
 | [**Sync_Organize**](https://github.com/Mo-lemi/Sync_Organize) | A minimalist, offline sticky-notes and task board on a visual canvas. | TypeScript · React · Node.js · Express · SQLite · Tailwind |
 | [**Brownfields**] *(coursework, private)* | **Team Lead & Project Manager.** Multi-client Java server running a shared robot world, handling many client connections at once with a JSON protocol and saved state. | Java · Multithreading · SQLite |
-| [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence) | | |
+| [**Madi**](https://github.com/Mo-lemi/FNB-App-Of-The-Year-Financial-Inclusion-and-Money-Confidence) | Budgeting apps assume a monthly salary. Millions of South Africans earn from piece work, spaza shops, taxis, deliveries, side hustles and grants instead. Their money arrives in uneven amounts on uneven days, while rent, school transport and stokvel contributions are due on fixed dates. A good Friday can feel like plenty of money, and the shortfall only shows up nine days later. Madi answers one question every morning: "How much can I spend today without running short before my next bills?" | React 18, TypeScript, Vite, GitHub Actions, GitHub Pages |
 
 ## Artificial Intelligence (AI) Projects
 | Project | What it is | Built with |
@@ -42,13 +42,13 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 | Project | What it is | Built with |
 | :--- | :--- | :--- |
+| [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) | *Know before you apply.* A Chrome extension and web app that warns job seekers about fraudulent job postings. Built for the UNESCO Youth Hackathon. | TypeScript · React · Vite · Python · scikit-learn · SHAP |
 | [**SA Weather ETL**](https://github.com/Mo-lemi/Data-Engineering-Project) | a pipeline that pulls five years of daily weather for five South African cities, cleans it, and answers questions with SQL. | *Python · pandas · SQLite* |
 | [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project) | An end-to-end exploratory analysis of ShopSmart's 2025 retail data: nine related tables, 50,000 orders, 5,000 customers, 500 products and 25 stores across Nigeria. It covers loading, cleaning, KPIs, visualisation, correlation, feature engineering, ten business questions and a bonus K-Means customer segmentation. | Python, Google Colab, SQL |
 | [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project) | This project turns 918 raw patient records into a clean, encoded, scaled, machine-learning-ready dataset for predicting heart disease, and documents every preprocessing decision. Every step that learns from the data (imputation, outlier fences, encoders, scaler, feature selection) is fitted on the training set only, so there is no data leakage. | Python, Google Colab |
 | [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project) | The analysis covers 27,891 encounters for 974 patients. Because a handful of patients generate a large share of encounters, every hypothesis is tested both per encounter and per patient, with confidence intervals from a bootstrap that resamples patients. The key figures are then reconciled against an independent, pandas-free recalculation. | Python, Google Colab |
 | [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project) | | Python, Google Colab |
 | [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project) | | Python, Google Colab, Pandas |
-| [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) | *Know before you apply.* A Chrome extension and web app that warns job seekers about fraudulent job postings. Built for the UNESCO Youth Hackathon. | TypeScript · React · Vite · Python · scikit-learn · SHAP |
 
 ## CyberSecurity Projects
 
@@ -67,7 +67,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | **Backend & APIs** | FastAPI · Node.js · Express · REST APIs |
 | **AI & Data** | Gemini API · scikit-learn · SHAP · Pydantic · Jupyter · PostgreSQL · SQLite |
 | **Testing & Tools** | pytest . Playwright · Docker · Git · GitHub · GitLab CI · VS Code |
-| **CyberSecurity** | burpsuite . fuff |
+| **CyberSecurity** | burpsuite . fuff . argon2 |
 
 ---
 
