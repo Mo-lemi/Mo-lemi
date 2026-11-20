@@ -10,14 +10,14 @@
 
 **Software Engineering student at [WeThinkCode_](https://www.wethinkcode.co.za/)** · Johannesburg, South Africa
 
-I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, and whatever problem the next hackathon throws at me. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
+I build practical things with **Python** and **AI**: fraud-detection tools, simulation solvers, and whatever problem the next hackathon throws at me. I am exploring data and machine learning, solving and creating problems surrounding these topics to expand my knowledge and skill set. Data is fun to work with. I care about code I can test and explain, and I keep improving my projects after the deadline is over.
 
-- Learning more about **AI agents, data engineering, SQL and CyberSecurity**
-- Usually found at a hackathon, or recovering from one
+- Learning more about **AI agents, data engineering, data science, machine learning and CyberSecurity**
+- Usually found at a hackathon, or recovering from one.
 - Marvel fan.
 - Icon changes according to my mood.
 
-<!-- <sub> **Current mood:** Agatha Harkness · GIF via @sersi</sub> -->
+<sub> **Current mood:** Agatha Harkness ·
 
 <br clear="right" />
 
