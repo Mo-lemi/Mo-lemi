@@ -38,7 +38,8 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project) | An end-to-end exploratory analysis of ShopSmart's 2025 retail data: nine related tables, 50,000 orders, 5,000 customers, 500 products and 25 stores across Nigeria. It covers loading, cleaning, KPIs, visualisation, correlation, feature engineering, ten business questions and a bonus K-Means customer segmentation. | Python, Google Colab, SQL |
 | [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project) | This project turns 918 raw patient records into a clean, encoded, scaled, machine-learning-ready dataset for predicting heart disease, and documents every preprocessing decision. Every step that learns from the data (imputation, outlier fences, encoders, scaler, feature selection) is fitted on the training set only, so there is no data leakage. | Python, Google Colab |
 | [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project) | The analysis covers 27,891 encounters for 974 patients. Because a handful of patients generate a large share of encounters, every hypothesis is tested both per encounter and per patient, with confidence intervals from a bootstrap that resamples patients. The key figures are then reconciled against an independent, pandas-free recalculation. | Python, Google Colab |
-| [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project) | | Python, Google Colab | 
+| [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project) | | Python, Google Colab |
+| [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project) | | Python, Google Colab, Pandas |
 
 ---
 
@@ -63,6 +64,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
  - [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project)
  - [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project)
  - [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project)
+ - [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project)
 
 ---
 
