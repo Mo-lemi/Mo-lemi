@@ -44,11 +44,12 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 | :--- | :--- | :--- |
 | [**Qhaphela**](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply) | *Know before you apply.* A Chrome extension and web app that warns job seekers about fraudulent job postings. Built for the UNESCO Youth Hackathon. | TypeScript · React · Vite · Python · scikit-learn · SHAP |
 | [**SA Weather ETL**](https://github.com/Mo-lemi/Data-Engineering-Project) | a pipeline that pulls five years of daily weather for five South African cities, cleans it, and answers questions with SQL. | *Python · pandas · SQLite* |
-| [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project) | An end-to-end exploratory analysis of ShopSmart's 2025 retail data: nine related tables, 50,000 orders, 5,000 customers, 500 products and 25 stores across Nigeria. It covers loading, cleaning, KPIs, visualisation, correlation, feature engineering, ten business questions and a bonus K-Means customer segmentation. | Python, Google Colab, SQL |
-| [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project) | This project turns 918 raw patient records into a clean, encoded, scaled, machine-learning-ready dataset for predicting heart disease, and documents every preprocessing decision. Every step that learns from the data (imputation, outlier fences, encoders, scaler, feature selection) is fitted on the training set only, so there is no data leakage. | Python, Google Colab |
-| [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project) | The analysis covers 27,891 encounters for 974 patients. Because a handful of patients generate a large share of encounters, every hypothesis is tested both per encounter and per patient, with confidence intervals from a bootstrap that resamples patients. The key figures are then reconciled against an independent, pandas-free recalculation. | Python, Google Colab |
-| [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project) | | Python, Google Colab |
-| [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project) | | Python, Google Colab, Pandas |
+| [**ShopSmart Retail Data**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week1_DataScience_Project) | An end-to-end exploratory analysis of ShopSmart's 2025 retail data: nine related tables, 50,000 orders, 5,000 customers, 500 products and 25 stores across Nigeria. It covers loading, cleaning, KPIs, visualisation, correlation, feature engineering, ten business questions and a bonus K-Means customer segmentation. | Python, Google Colab, SQL, pandas, NumPy, SciPy, scikit-learn, Matplotlib, seaborn, missingno |
+| [**Feature Engineering and Data Preprocessing for Machine Learning**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week2_DataScience_Project) | This project turns 918 raw patient records into a clean, encoded, scaled, machine-learning-ready dataset for predicting heart disease, and documents every preprocessing decision. Every step that learns from the data (imputation, outlier fences, encoders, scaler, feature selection) is fitted on the training set only, so there is no data leakage. | Python, Google Colab, pandas, NumPy, scikit-learn, Matplotlib, seaborn |
+| [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project) | The analysis covers 27,891 encounters for 974 patients. Because a handful of patients generate a large share of encounters, every hypothesis is tested both per encounter and per patient, with confidence intervals from a bootstrap that resamples patients. The key figures are then reconciled against an independent, pandas-free recalculation. | Python, Google Colab, pandas, NumPy, SciPy, Matplotlib, seaborn |
+| [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project) | An analysis of 62,516 CFPB consumer complaints about Bank of America (May 2017 to August 2023), testing four hypotheses about complaint volume, product mix, company responses and CFPB forwarding times. With this many records almost any difference is significant, so every test is interpreted by its effect size. Monthly complaints nearly doubled between 2019 and 2023, and the untimely-response rate rose from 0.7% in 2020 to 11.0% in 2021. Key figures are checked against an independent recalculation and 22 unit tests. | Python, Google Colab, pandas, NumPy, SciPy, Matplotlib, seaborn, pytest |
+| [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project) | A study of 52,416 ten-minute electricity readings from three zones of Tetouan, Morocco, across 2017, together with weather data. It uses MSTL and STL decomposition, ADF and KPSS stationarity tests, and regressions with Newey-West errors that control for hour, month, Ramadan and public holidays. Once those controls are in, temperature still drives load only in Zone 3. All 88 key figures match an independent recalculation. | Python, Google Colab, pandas, NumPy, SciPy, statsmodels, Plotly, Matplotlib, pytest |
+| [**Statistical Analysis and Time-Series Investigation of S&P 500 Stock Performance**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week6_DataScience_Project) | A study of 497,472 daily price records for 505 S&P 500 symbols (2014 to 2017), focused on six large stocks from six sectors: Apple, Amazon, JPMorgan Chase, Johnson & Johnson, Exxon Mobil and Walmart. The stocks differed clearly in risk, but none of their average daily returns was distinguishable from zero, and in 2017 no forecasting model beat "tomorrow = today". Volatility clusters, while the direction of moves stays unpredictable. All 172 key figures match an independent recalculation, and 26 unit tests pass. | Python, Google Colab, pandas, NumPy, SciPy, statsmodels, Plotly, Matplotlib, pytest |
 
 ## CyberSecurity Projects
 
@@ -58,14 +59,14 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
 
 ---
 
-## Tech I Use
+## Tech and Tools I Use
 
 | | |
 | :--- | :--- |
 | **Languages** | Python · Java · TypeScript · JavaScript · SQL · HTML/CSS |
 | **Frontend** | React · Vite · Tailwind CSS · Streamlit |
 | **Backend & APIs** | FastAPI · Node.js · Express · REST APIs |
-| **AI & Data** | Gemini API · scikit-learn · SHAP · Pydantic · Jupyter · PostgreSQL · SQLite |
+| **AI & Data** | Gemini API · pandas · NumPy · SciPy · statsmodels · scikit-learn · SHAP · Matplotlib · seaborn · Plotly · Pydantic · Jupyter · PostgreSQL · SQLite |
 | **Testing & Tools** | pytest . Playwright · Docker · Git · GitHub · GitLab CI · VS Code |
 | **CyberSecurity** | burpsuite . fuff . argon2 |
 
@@ -81,6 +82,7 @@ I build practical things with **Python** and **AI**: fraud-detection tools, simu
  - [**Healthcare Operations, Statistical Investigation & Insight Discovery**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week3_DataScience_Project)
  - [**Consumer Complaint Patterns and Response Trends**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week4_DataScience_Project)
  - [**Statistical and Time-Series Analysis of Electricity Consumption in Morocco**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week5_DataScience_Project)
+ - [**Statistical Analysis and Time-Series Investigation of S&P 500 Stock Performance**](https://github.com/Mo-lemi/AnalystLab-Africa-Data-Science/tree/main/Week6_DataScience_Project)
 
 ---
 
